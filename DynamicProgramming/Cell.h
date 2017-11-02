@@ -3,6 +3,7 @@
 class Cell{
     public:
         int dataProcessed;
-        int parent;
+        Cell *child;
+
         Cell();
 };

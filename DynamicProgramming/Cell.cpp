@@ -2,6 +2,5 @@
 
 Cell::Cell() {
     dataProcessed = -1;
-    parent = -1;
-
+    child = nullptr;
 }

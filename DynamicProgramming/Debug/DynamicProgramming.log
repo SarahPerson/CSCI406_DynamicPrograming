@@ -1,3 +1,4 @@
 ﻿  main.cpp
+c:\users\sarah\documents\schoolwork\csci406algorithms\projects\dynamicprogramming\dynamicprogramming\main.cpp(134): warning C4018: '<': signed/unsigned mismatch
   DynamicProgramming.vcxproj -> C:\Users\Sarah\Documents\SchoolWork\CSCI406Algorithms\Projects\DynamicProgramming\Debug\DynamicProgramming.exe
   DynamicProgramming.vcxproj -> C:\Users\Sarah\Documents\SchoolWork\CSCI406Algorithms\Projects\DynamicProgramming\Debug\DynamicProgramming.pdb (Partial PDB)
